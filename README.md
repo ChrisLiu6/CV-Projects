@@ -1,2 +1,2 @@
 # Computer-Vision-Projects
-Just for fun
+Personal projects and self-learning on Computer Vision
